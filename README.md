@@ -5,12 +5,11 @@ Este software fue desarrollado para facilitar la administración de reparaciones
 
 ## ✨ Características principales
 
-- **Creación de notas de reparación** con detalles del cliente, dispositivo, diagnóstico, reparaciones realizadas, precios y abonos.
+- **Creación de notas de reparación** con detalles del cliente, dispositivo, reparaciones realizadas, precios y abonos.
 - **Visualización y búsqueda avanzada** de notas por técnico, fecha o número de nota.
 - **Generación e impresión de tickets** para entregar al cliente.
 - **Gestión de técnicos** y asignación a cada nota.
 - Interfaz de usuario desarrollada con **Java Swing** en **NetBeans**.
-- Persistencia de datos mediante **MySQL** como base de datos.
 
 ## 🛠️ Tecnologías utilizadas
 
