@@ -1,0 +1,38 @@
+            Notifications.getInstance().show(Notifications.Type.ERROR,
+                    Notifications.Location.TOP_CENTER, "ERROR: Dato No Valido");
+
+
+//  Setup notifications with jfram
+
+Notifications.getInstance().setJFrame(jfram);
+
+//  Show notifications
+
+Notifications.getInstance().show(Notifications.Type.SUCCESS, Notifications.Location.TOP_CENTER, "Hello");
+
+//  Show notification with custom component
+
+Notifications.getInstance().show(new JButton("My Custom Button"));
+
+//  Clear top right notifications
+
+Notifications.getInstance().clear(Notifications.Location.TOP_RIGHT);
+
+//  Clear all notifications
+
+Notifications.getInstance().clearAll();
+
+//  Install flatlaf look and feel to your application
+
+FlatIntelliJLaf.setup();
+
+
+public enum Type {
+  SUCCESS, INFO, WARNING, ERROR
+}
+
+//  Notification Location
+
+public enum Location {
+  TOP_LEFT, TOP_CENTER, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_CENTER, BOTTOM_RIGHT
+}

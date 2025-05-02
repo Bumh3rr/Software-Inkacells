@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="print">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Librery/print/jackson-core-2.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/print/jackson-jr-objects-2.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

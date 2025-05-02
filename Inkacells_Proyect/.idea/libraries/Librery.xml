@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Librery">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Librery/miglayout-swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/picture-box-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/HikariCP-5.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/thumbnailator-0.4.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/slf4j-api-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/swing-crazy-panel-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/swing-glasspane-popup-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/flatlaf-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/swing-jnafilechooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/miglayout-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/flatlaf-extras-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/slf4j-simple-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/TimingFramework-0.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/raven-bean-pack-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/jna-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/NefAnimacion_V2.1_jdk18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/swing-toast-notifications-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/swing-datetime-picker-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

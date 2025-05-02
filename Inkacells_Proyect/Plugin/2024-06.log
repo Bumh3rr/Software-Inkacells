@@ -1,0 +1,85 @@
+2024/06/29 15:26:38.830493 Plugin para comunicación con impresoras térmicas
+Versión: 3.4.0
+Proudly brought to you by Parzibyte
+No olvides leer mi blog si hay más actualizaciones o cosas interesantes: https://parzibyte.me/blog
+2024/06/29 15:26:38.830493 Escuchando en el puerto :8000.
+2024/06/29 15:27:42.718511 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 19:01:06.627777 Plugin para comunicación con impresoras térmicas
+Versión: 3.4.0
+Proudly brought to you by Parzibyte
+No olvides leer mi blog si hay más actualizaciones o cosas interesantes: https://parzibyte.me/blog
+2024/06/29 19:01:06.627777 Escuchando en el puerto :8000.
+2024/06/29 19:01:23.185701 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 19:01:23.983553 error de servidor. El mensaje es: Error invocando a DescargarImagenDeInternetEImprimir: algoritmo inválido para imagen. Puede ser uno de []int{1, 2, 0} pero 216.000000 fue dado
+2024/06/29 19:04:08.181496 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 19:42:10.557358 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 19:58:09.629022 Plugin para comunicación con impresoras térmicas
+Versión: 3.4.0
+Proudly brought to you by Parzibyte
+No olvides leer mi blog si hay más actualizaciones o cosas interesantes: https://parzibyte.me/blog
+2024/06/29 19:58:09.639146 Escuchando en el puerto :8000.
+2024/06/29 20:13:22.096806 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 20:13:22.102987 error de servidor. El mensaje es: Error invocando a CargarImagenLocalEImprimir: open src/cell: El sistema no puede encontrar la ruta especificada.
+2024/06/29 20:13:42.983750 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 20:13:42.989670 error de servidor. El mensaje es: Error invocando a CargarImagenLocalEImprimir: open src/cell.png: El sistema no puede encontrar la ruta especificada.
+2024/06/29 20:13:54.078392 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 20:13:54.083235 error de servidor. El mensaje es: Error invocando a CargarImagenLocalEImprimir: open src/: El sistema no puede encontrar el archivo especificado.
+2024/06/29 20:15:23.574794 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 20:15:24.135467 error de servidor. El mensaje es: Error invocando a DescargarImagenDeInternetEImprimir: algoritmo inválido para imagen. Puede ser uno de []int{1, 2, 0} pero 216.000000 fue dado
+2024/06/29 20:16:11.896625 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 20:16:12.285065 error de servidor. El mensaje es: Error invocando a DescargarImagenDeInternetEImprimir: algoritmo inválido para imagen. Puede ser uno de []int{1, 2, 0} pero 216.000000 fue dado
+2024/06/29 20:16:59.341948 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 20:16:59.350440 error de servidor. El mensaje es: Error invocando a CargarImagenLocalEImprimir: open src.cell: El sistema no puede encontrar el archivo especificado.
+2024/06/29 20:17:23.324143 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 20:17:23.336587 error de servidor. El mensaje es: Error invocando a CargarImagenLocalEImprimir: open /src/cell.png: El sistema no puede encontrar la ruta especificada.
+2024/06/29 20:17:54.693306 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 20:18:21.040981 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 20:19:18.636192 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 20:20:21.762311 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 20:20:21.773283 error de servidor. El mensaje es: Error invocando a CargarImagenLocalEImprimir: open /cell.png: El sistema no puede encontrar el archivo especificado.
+2024/06/29 20:31:41.743312 error de servidor. El mensaje es: open \\DESKTOP-V4HAB01\: La ruta de acceso especificada no es válida.
+2024/06/29 20:32:54.578781 error de servidor. El mensaje es: open \\DESKTOP-V4HAB01\: La ruta de acceso especificada no es válida.
+2024/06/29 20:33:02.937837 error de servidor. El mensaje es: open \\DESKTOP-V4HAB01\: La ruta de acceso especificada no es válida.
+2024/06/29 20:34:04.610433 error de servidor. El mensaje es: open \\DESKTOP-V4HAB01\: La ruta de acceso especificada no es válida.
+2024/06/29 20:35:10.459891 error de servidor. El mensaje es: open \\DESKTOP-V4HAB01\: La ruta de acceso especificada no es válida.
+2024/06/29 20:35:12.092434 error de servidor. El mensaje es: open \\DESKTOP-V4HAB01\: La ruta de acceso especificada no es válida.
+2024/06/29 20:35:12.345674 error de servidor. El mensaje es: open \\DESKTOP-V4HAB01\: La ruta de acceso especificada no es válida.
+2024/06/29 20:35:14.620741 error de servidor. El mensaje es: open \\DESKTOP-V4HAB01\: La ruta de acceso especificada no es válida.
+2024/06/29 20:35:54.254691 error de servidor. El mensaje es: open \\DESKTOP-V4HAB01\: La ruta de acceso especificada no es válida.
+2024/06/29 20:36:01.058784 error de servidor. El mensaje es: open \\DESKTOP-V4HAB01\: La ruta de acceso especificada no es válida.
+2024/06/29 20:36:13.026842 error de servidor. El mensaje es: open \\DESKTOP-V4HAB01\: La ruta de acceso especificada no es válida.
+2024/06/29 20:54:07.880593 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 20:58:49.997377 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/29 21:10:07.528432 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 17:50:34.200444 Plugin para comunicación con impresoras térmicas
+Versión: 3.4.0
+Proudly brought to you by Parzibyte
+No olvides leer mi blog si hay más actualizaciones o cosas interesantes: https://parzibyte.me/blog
+2024/06/30 17:50:34.200444 Escuchando en el puerto :8000.
+2024/06/30 17:58:00.362860 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:01:21.050310 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:02:21.630823 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:03:46.953327 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:04:59.832044 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:06:14.439829 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:11:14.693008 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:13:09.660662 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:14:06.565416 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:14:32.224875 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:16:27.960004 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:18:46.784974 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:26:39.149266 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:33:31.849746 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 18:37:05.950830 Error comprobando validez de licencia: el serial es una cadena vacía. Esto no es problema si usted está usando la versión gratuita, pero si cuenta con un serial por favor verifique la documentación en https://parzibyte.me/blog para saber cómo enviar la licencia en la petición
+2024/06/30 20:58:17.169998 Plugin para comunicación con impresoras térmicas
+Versión: 3.4.0
+Proudly brought to you by Parzibyte
+No olvides leer mi blog si hay más actualizaciones o cosas interesantes: https://parzibyte.me/blog
+2024/06/30 20:58:17.169998 Escuchando en el puerto :8000.
+2024/06/30 20:58:49.625104 Error comprobando validez de licencia: serial firmado y en texto plano no separados correctamente
+2024/06/30 21:00:58.075509 Error comprobando validez de licencia: serial firmado y en texto plano no separados correctamente
+2024/06/30 21:19:44.144558 Plugin para comunicación con impresoras térmicas
+Versión: 3.4.0
+Proudly brought to you by Parzibyte
+No olvides leer mi blog si hay más actualizaciones o cosas interesantes: https://parzibyte.me/blog
+2024/06/30 21:19:44.144558 Escuchando en el puerto :8000.

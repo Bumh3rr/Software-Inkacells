@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Inkacells_Proyect">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Inkacells_Proyect.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

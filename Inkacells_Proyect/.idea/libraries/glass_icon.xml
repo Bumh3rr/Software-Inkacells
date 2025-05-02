@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="glass icon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Librery/glass icon/svgSalamander-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/glass icon/common-image-3.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librery/glass icon/swing-glassmorphism-icon-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
