@@ -40,6 +40,6 @@ Este software fue desarrollado para facilitar la administración de reparaciones
 ![Búsqueda de Notas](images/image-6.png)
 
 ### Ticket de impresión
-![Ticket](imagenes/ticket.png)
+![Ticket](images/ticket.png)
 
 > Este proyecto fue una solución interna desarrollada para mejorar la organización y seguimiento de reparaciones en un entorno de taller técnico.
